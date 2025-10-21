@@ -4,7 +4,7 @@ This project uses C for the logic, JavaScript as the midleman, and HTML as the d
 
 ### Setup
 1. Compile the C code: into wasm
-2. Open `src/html/fluid_sim.html` in your browser
+2. Open `src/html/fluid_sim_homepage.html` in your browser
 
 ### Technologies
 - C
